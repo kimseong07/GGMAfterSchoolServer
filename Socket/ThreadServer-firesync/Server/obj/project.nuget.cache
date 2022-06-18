@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TpS8aZ/40mwrgrM61UIH5a84X0OGTSEVt1m+t94XtmzrHGhBPWvl0ucPH7uVfKPbWtgLN4nJLQyP9mI4G+7nTQ==",
+  "success": true,
+  "projectFilePath": "D:\\Unity\\GGMAfterSchoolServer\\Socket\\ThreadServer-firesync\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ROG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ROG\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ROG\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

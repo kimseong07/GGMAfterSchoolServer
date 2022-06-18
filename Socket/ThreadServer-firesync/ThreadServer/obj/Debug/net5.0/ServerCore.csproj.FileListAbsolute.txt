@@ -1,0 +1,12 @@
+D:\dotnetworkspace\ThreadServer\ThreadServer\bin\Debug\net5.0\ServerCore.deps.json
+D:\dotnetworkspace\ThreadServer\ThreadServer\bin\Debug\net5.0\ServerCore.dll
+D:\dotnetworkspace\ThreadServer\ThreadServer\bin\Debug\net5.0\ref\ServerCore.dll
+D:\dotnetworkspace\ThreadServer\ThreadServer\bin\Debug\net5.0\ServerCore.pdb
+D:\dotnetworkspace\ThreadServer\ThreadServer\obj\Debug\net5.0\ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetworkspace\ThreadServer\ThreadServer\obj\Debug\net5.0\ServerCore.AssemblyInfoInputs.cache
+D:\dotnetworkspace\ThreadServer\ThreadServer\obj\Debug\net5.0\ServerCore.AssemblyInfo.cs
+D:\dotnetworkspace\ThreadServer\ThreadServer\obj\Debug\net5.0\ServerCore.csproj.CoreCompileInputs.cache
+D:\dotnetworkspace\ThreadServer\ThreadServer\obj\Debug\net5.0\ServerCore.dll
+D:\dotnetworkspace\ThreadServer\ThreadServer\obj\Debug\net5.0\ref\ServerCore.dll
+D:\dotnetworkspace\ThreadServer\ThreadServer\obj\Debug\net5.0\ServerCore.pdb
+D:\dotnetworkspace\ThreadServer\ThreadServer\obj\Debug\net5.0\ServerCore.csprojAssemblyReference.cache

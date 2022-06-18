@@ -1,0 +1,16 @@
+D:\dotnetworkspace\ThreadServer\PacketGenerator\bin\PacketGenerator.exe
+D:\dotnetworkspace\ThreadServer\PacketGenerator\bin\PacketGenerator.deps.json
+D:\dotnetworkspace\ThreadServer\PacketGenerator\bin\PacketGenerator.runtimeconfig.json
+D:\dotnetworkspace\ThreadServer\PacketGenerator\bin\PacketGenerator.runtimeconfig.dev.json
+D:\dotnetworkspace\ThreadServer\PacketGenerator\bin\PacketGenerator.dll
+D:\dotnetworkspace\ThreadServer\PacketGenerator\bin\ref\PacketGenerator.dll
+D:\dotnetworkspace\ThreadServer\PacketGenerator\bin\PacketGenerator.pdb
+D:\dotnetworkspace\ThreadServer\PacketGenerator\obj\Debug\PacketGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetworkspace\ThreadServer\PacketGenerator\obj\Debug\PacketGenerator.AssemblyInfoInputs.cache
+D:\dotnetworkspace\ThreadServer\PacketGenerator\obj\Debug\PacketGenerator.AssemblyInfo.cs
+D:\dotnetworkspace\ThreadServer\PacketGenerator\obj\Debug\PacketGenerator.csproj.CoreCompileInputs.cache
+D:\dotnetworkspace\ThreadServer\PacketGenerator\obj\Debug\PacketGenerator.dll
+D:\dotnetworkspace\ThreadServer\PacketGenerator\obj\Debug\ref\PacketGenerator.dll
+D:\dotnetworkspace\ThreadServer\PacketGenerator\obj\Debug\PacketGenerator.pdb
+D:\dotnetworkspace\ThreadServer\PacketGenerator\obj\Debug\PacketGenerator.genruntimeconfig.cache
+D:\dotnetworkspace\ThreadServer\PacketGenerator\obj\Debug\PacketGenerator.csprojAssemblyReference.cache

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PDL>
+  <!--게임 접속시 주변 유저에게 뿌리는 용도-->
+  <packet name="BroadcastEnterGame" usage="server">
+    <int name="playerId"/>
+    <float name="posX"/>
+    <float name="posY"/>
+    <float name="posZ"/> <!--벡터3로 할거면 알맞게 자동화 코드도 추가해주면 된다.-->
+    <Vector3 name="color"/>
+  </packet>
+  <packet name="LeaveGame" usage="client">  <!--클라이언트의 접속종료 통보-->
+  </packet>
+  <packet name="BroadcastLeaveGame" usage="server">
+    <int name="playerId"/>
+  </packet>
+  <packet name="PlayerList" usage="server">
+    <list name="player">
+      <bool name="isSelf"/>  <!--자기 자신인가?-->
+      <int name="playerId"/>
+      <float name="posX"/>
+      <float name="posY"/>
+      <float name="posZ"/>
+      <Vector3 name="color"/> 
+    </list>
+  </packet>
+  
+  <!--이동관련 패킷-->
+  <packet name="Move" usage="client">
+    <float name="posX"/>
+    <float name="posY"/>
+    <float name="posZ"/>
+  </packet>
+  <packet name="BroadcastMove" usage="server">
+    <int name="playerId"/>
+    <float name="posX"/>
+    <float name="posY"/>
+    <float name="posZ"/>
+  </packet>
+  
+  <!-- 포탄 관련 패킷 -->
+  <packet name="BFire" usage="client">
+    <float name="posX"/>
+    <float name="posY"/>
+    <float name="posZ"/>
+  </packet>
+  <packet name="BroadCastBFire" usage="server">
+    <int name="owner"/>
+    <int name="ballId"/>
+    <float name="posX"/>
+    <float name="posY"/>
+    <float name="posZ"/>
+  </packet>
+  <packet name="BallList" usage="server">
+    <list name="ball">
+      <int name="owner"/>
+      <int name="ballId"/>
+      <float name="posX"/>
+      <float name="posY"/>
+      <float name="posZ"/>
+    </list>
+  </packet>
+  <packet name="BMove" usage="client">
+    <int name="ballId"/>
+    <float name="posX"/>
+    <float name="posY"/>
+    <float name="posZ"/>
+  </packet>
+  <packet name="BroadcastBMove" usage="server">
+    <int name="ballId"/>
+    <float name="posX"/>
+    <float name="posY"/>
+    <float name="posZ"/>
+  </packet>
+  <packet name="BallDestroy" usage="server">
+    <int name="ballId"/>
+    <float name="posX"/>
+    <float name="posY"/>
+    <float name="posZ"/>
+  </packet>
+</PDL>
+<!--클라에서 서버로 보내는 메시지 패킷-->
+<!--<packet name="ChatMSG" usage="client">
+    <string name="chat"/>
+  </packet>-->
+<!--서버에서 각 클라이언트로 브로드캐스트해주는 패킷-->
+<!--<packet name="ChatBroad" usage="server">
+    <int name="playerId"/>
+    <string name="chat"/>
+  </packet>-->

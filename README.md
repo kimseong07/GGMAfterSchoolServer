@@ -3,6 +3,6 @@
 ----
 기간 2021.09. ~ 2021.12.
 ----
-1.node.js를 이용한 서버 구현, phpmyadmin(DB)을 이용한 데이터 이동
-2.jsonwebtoken, oauth을 이용한 보안 로그인, 로그아웃
+1.node.js를 이용한 서버 구현, phpmyadmin(DB)을 이용한 데이터 이동\
+2.jsonwebtoken, oauth을 이용한 보안 로그인, 로그아웃\
 3.Thread서버 구현 (동기, 비동기의 이해)
